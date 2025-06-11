@@ -1,7 +1,8 @@
 【検索バー】
 
-![image](https://github.com/user-attachments/assets/d6a3d1b8-0a3a-4608-a231-550c8c1297bf)
+![search_bar_compose](https://github.com/user-attachments/assets/47d07540-dae4-4086-96d2-18e9449d0069)
+
 
 【クリアボタン付き検索バー】
 
-![image](https://github.com/user-attachments/assets/7d2433cd-70a7-4870-85b9-8a0e0f941986)
+![search_bar_clear_button](https://github.com/user-attachments/assets/777d200b-0417-403b-8a61-5abf01f9d5f8)
